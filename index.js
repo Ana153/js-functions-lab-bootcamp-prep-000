@@ -1,3 +1,13 @@
 // write your code below!
 
-function happy
+function happyHolidays() {
+  
+}
+
+function happyHolidaysTo() {
+  
+}
+
+function happyHolidayTo() {
+  
+}
